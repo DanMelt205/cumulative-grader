@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '6+r&lpu5b5gk4yoqm5d2sc8uat&5w&o3si-f1wka(mzh53o)l1'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['cumlative-grader.eba-3f2hc72c.us-west-2.elasticbeanstalk.com']
 
